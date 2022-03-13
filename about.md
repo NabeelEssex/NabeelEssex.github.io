@@ -5,4 +5,5 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+#Welcome to my website!
+##I hope to find it useful
