@@ -11,4 +11,4 @@ tags: [Understanding Artificial Intelligence]
 This post is meant to summarize some of the key concepts I have learned in the course *Understanding Artificial Intelligence*
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacamp certification](/assets/images/banners/AI.jpg)
