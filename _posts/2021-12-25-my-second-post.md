@@ -3,12 +3,12 @@ layout: post
 title: Introduction to Python
 subtitle: Each post also has a subtitle
 categories: Python
-tags: [Python, intro, certificate]
+tags: [Understanding Artificial Intelligence]
 ---
 
-## Introduction to Python
+## Understanding Artificial Intelligence
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+This post is meant to summarize some of the key concepts I have learned in the course *Understanding Artificial Intelligence*
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
