@@ -1,9 +1,5 @@
----
-layout: about
-title: About
----
 
 ## About
 
-#Welcome to my website!
-##I hope to find it useful
+# Welcome to my website!
+## I hope to find it useful
